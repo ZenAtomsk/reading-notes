@@ -8,7 +8,7 @@ words go here
 
 ### **Table of Contents**
 ---
-1. [Introductory HTML and JavaScript](read-01-html-javascript.md)
+1. [Introductory HTML and JavaScript](01-read-html-javascript.md)
 2. 
 3. 
 4. 
