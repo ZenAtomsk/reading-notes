@@ -11,7 +11,7 @@ This course guides students toward developing a well-rounded foundation of skill
 ### **Table of Contents**
 
 1. [Introductory HTML and JavaScript](01-read-html-javascript.md)
-2. 
+2. [Basics of HTML, CSS & JS](02-basics-html-css-js.md)
 3. 
 4. 
 5. 
