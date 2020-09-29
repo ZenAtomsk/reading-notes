@@ -12,7 +12,7 @@ This course guides students toward developing a well-rounded foundation of skill
 
 1. [Introductory HTML and JavaScript](01-read-html-javascript.md)
 2. [Basics of HTML, CSS & JS](02-basics-html-css-js.md)
-3. 
+3. [HTML lists, CSS Boxes, JS Control Flow](03-read-htmllists-cssboxes-jsflow.md)
 4. 
 5. 
 6. 
