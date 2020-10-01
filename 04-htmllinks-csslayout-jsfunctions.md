@@ -28,8 +28,6 @@
 - Functions allow you to group a set of related statements together that represent a single task.
 - Functions can take parameters (information required to do their job) and may return a value.
 
-
-
 ---
 
 ### Six Reasons for Pair Programming
