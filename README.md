@@ -16,7 +16,7 @@ This course guides students toward developing a well-rounded foundation of skill
 4. [HTML links, CSS Layout and JS Functions](04-htmllinks-csslayout-jsfunctions.md)
 5. [HTML Images; CSS Color & Text](05-htmlimages-csscolortext.md)
 6. [JS Object Literals; The DOM](06-js-object-literals.md)
-7. 
+7. [HTML Tables; JS Constructor Functions](07-object-oriented-programming.md)
 8. 
 9. 
 10. 
