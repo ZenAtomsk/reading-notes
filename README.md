@@ -19,7 +19,7 @@ This course guides students toward developing a well-rounded foundation of skill
 7. [HTML Tables; JS Constructor Functions](07-object-oriented-programming.md)
 8. [CSS Layout](08-css-layout.md)
 9. [Forms and Events](09-forms-and-events.md)
-10. 
+10. [JS Debugging](10-jsDebugging.md)
 11. 
 12. 
 13. 
