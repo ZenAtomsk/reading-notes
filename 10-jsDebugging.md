@@ -37,7 +37,7 @@ Each one is given its own code block.
 > *try to execute this code* <br />
 >***} catch (exception) {*** <br />
 > *if there is an exception, run this code* <br />
->***} finally { ***<br />
+>***} finally {*** <br />
 > *this always gets executed* <br />
 >***}***
 
