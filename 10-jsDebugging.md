@@ -28,18 +28,18 @@ Once the new task has been performed, the interpreter can go back to the task in
 
 ---
 
-### **TRY, CATCH, FINALLY
+### **TRY, CATCH, FINALLY**
 
 If you know your code might fail, use try, catch, and finally. <br />
 Each one is given its own code block.
 
 >***try {***  
 > *try to execute this code* <br />
->} catch (exception) { <br />
-> *if there is an exception, run this code <br />
->***} finally { <br />
+>***} catch (exception) {*** <br />
+> *if there is an exception, run this code* <br />
+>***} finally { ***<br />
 > *this always gets executed* <br />
->}
+>***}***
 
 **TRY**
 - First, you specify the code that you thin might throw an exception within the try block
