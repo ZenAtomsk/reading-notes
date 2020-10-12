@@ -20,7 +20,7 @@ This course guides students toward developing a well-rounded foundation of skill
 8. [CSS Layout](08-css-layout.md)
 9. [Forms and Events](09-forms-and-events.md)
 10. [JS Debugging](10-jsDebugging.md)
-11. 
+11. [Audio, Video and images](11-assortedTopics.md)
 12. 
 13. 
 14. 
