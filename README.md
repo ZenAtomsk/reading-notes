@@ -21,7 +21,7 @@ This course guides students toward developing a well-rounded foundation of skill
 9. [Forms and Events](09-forms-and-events.md)
 10. [JS Debugging](10-jsDebugging.md)
 11. [Audio, Video and images](11-assortedTopics.md)
-12. 
+12. [Chart.js, Canvas](12-chart-js-canvas.md)
 13. 
 14. 
 15. 
