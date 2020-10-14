@@ -22,6 +22,6 @@ This course guides students toward developing a well-rounded foundation of skill
 10. [JS Debugging](10-jsDebugging.md)
 11. [Audio, Video and images](11-assortedTopics.md)
 12. [Chart.js, Canvas](12-chart-js-canvas.md)
-13. 
+13. [Local Storage](13-local-storage.md)
 14. 
 15. 
