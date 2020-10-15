@@ -23,5 +23,5 @@ This course guides students toward developing a well-rounded foundation of skill
 11. [Audio, Video and images](11-assortedTopics.md)
 12. [Chart.js, Canvas](12-chart-js-canvas.md)
 13. [Local Storage](13-local-storage.md)
-14. 
-15. 
+14. [CSS Transforms, Transitions, and Animations](14a-css-tta.md)
+15. [What Google learned about teams](14b-google-teams.md)
