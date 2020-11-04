@@ -12,3 +12,4 @@ This class builds on your 201 foundation with a deep dive into the world of serv
 
 1. [Responsive Web Design and Floats](01-read-smacss-and-responsive-web-design.md)
 2. [jQuery, Events, and the DOM](02-jquery-events-dom.md)
+3. [Mustache and Flexbox](mustache-flexbox.md)
