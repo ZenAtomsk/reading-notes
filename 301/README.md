@@ -18,3 +18,4 @@ This class builds on your 201 foundation with a deep dive into the world of serv
 6. [NODE.JS](06-nodejs.md)
 7. [REST](07-rest.md)
 8. [SQL](08-sql.md)
+9. [Refactoring (functional programming)](09-refactoring.md)
