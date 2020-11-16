@@ -20,3 +20,4 @@ This class builds on your 201 foundation with a deep dive into the world of serv
 8. [SQL](08-sql.md)
 9. [Refactoring (functional programming)](09-refactoring.md)
 10. [The Call Stack and Debugging](10-call-stack.md)
+11. [EJS](11-ejs.md)
