@@ -2,7 +2,7 @@
 
 ## **Links**'
 
-- [](https://qz.com/911737/silicon-valleys-gender-gap-is-the-result-of-computer-game-marketing-20-years-ago/)
+- [Silicon Valley’s gender gap](https://qz.com/911737/silicon-valleys-gender-gap-is-the-result-of-computer-game-marketing-20-years-ago/)
 
 - [Diversity in Tech](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
 
