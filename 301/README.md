@@ -24,3 +24,4 @@ This class builds on your 201 foundation with a deep dive into the world of serv
 12. [Components](12-components.md)
 13. [Sending Form Data](13-sending-form-data.md)
 14. [DataBase Normalization](14-db-normalization.md)
+15. [Diversity and Inclusion](15-div-and-inc.md)
