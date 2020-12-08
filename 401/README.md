@@ -16,4 +16,4 @@ At the end of this course, you will be able to:
 
 ### **Table of Contents**
 
-1. []()
+1. [Read 01](01-review-research-discuss.md)
