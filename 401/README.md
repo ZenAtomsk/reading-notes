@@ -16,6 +16,7 @@ At the end of this course, you will be able to:
 
 ### **Table of Contents**
 
-1. [Read 01](01-review-research-discuss.md)
-2. [Read 02 Express](02-express.md)
-3. [Read 03 Rest API](03-rest-api.md)
+1. [Review](01-review-research-discuss.md)
+2. [Express](02-express.md)
+3. [Rest API](03-rest-api.md)
+4. [Data Modeling](401/04-data-modeling.md)
