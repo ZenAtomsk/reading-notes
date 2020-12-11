@@ -19,4 +19,5 @@ At the end of this course, you will be able to:
 1. [Review](01-review-research-discuss.md)
 2. [Express](02-express.md)
 3. [Rest API](03-rest-api.md)
-4. [Data Modeling](401/04-data-modeling.md)
+4. [Data Modeling](04-data-modeling.md)
+5. [Linked Lists](05-linked-lists.md)
