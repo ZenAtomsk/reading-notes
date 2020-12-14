@@ -21,3 +21,4 @@ At the end of this course, you will be able to:
 3. [Rest API](03-rest-api.md)
 4. [Data Modeling](04-data-modeling.md)
 5. [Linked Lists](05-linked-lists.md)
+6. [Authentication](06-authentication.md)
