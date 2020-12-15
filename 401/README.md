@@ -22,3 +22,4 @@ At the end of this course, you will be able to:
 4. [Data Modeling](04-data-modeling.md)
 5. [Linked Lists](05-linked-lists.md)
 6. [Authentication](06-authentication.md)
+7. [Bearer Authorization](07-bearer-auth.md)
