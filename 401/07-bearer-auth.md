@@ -5,7 +5,7 @@
 - [Are JWTs Secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 - [npm jsonwebtoken docs](https://www.npmjs.com/package/jsonwebtoken)
 
-Write the following steps in the correct order:
+[Write the following steps in the correct order:](https://auth0.com/docs/flows/authorization-code-flow)
 
 1. Register your application to get a client_id and client_secret
 2. Ask the client if they want to sign in via a third party
