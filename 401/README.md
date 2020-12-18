@@ -23,4 +23,5 @@ At the end of this course, you will be able to:
 5. [Linked Lists](05-linked-lists.md)
 6. [Authentication](06-authentication.md)
 7. [Bearer Authorization](07-bearer-auth.md)
-8. [Access Control]()
+8. [Access Control](08-access-control.md)
+9. [Stacks and Queues](09-stacks-and-queues.md)
