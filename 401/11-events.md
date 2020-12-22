@@ -1,6 +1,9 @@
 # Event Driven Applications
 
-## 
+## links
+
+- [Event-Driven Programming](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
+- [Node Docs](https://nodejs.org/api/events.html)
 
 **Why is access control important?**
 

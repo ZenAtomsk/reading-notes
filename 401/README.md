@@ -25,4 +25,5 @@ At the end of this course, you will be able to:
 7. [Bearer Authorization](07-bearer-auth.md)
 8. [Access Control](08-access-control.md)
 9. [Stacks and Queues](09-stacks-and-queues.md)
-10 [Event Driven Applications](11-events.md)
+10. [Event Driven Applications](11-events.md)
+11. [Socket.io](12-sockets.md) 
