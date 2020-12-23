@@ -27,3 +27,4 @@ At the end of this course, you will be able to:
 9. [Stacks and Queues](09-stacks-and-queues.md)
 10. [Event Driven Applications](11-events.md)
 11. [Socket.io](12-sockets.md) 
+12. [Message Queues](13-message-queues.md)
