@@ -30,3 +30,4 @@ At the end of this course, you will be able to:
 12. [Message Queues](13-message-queues.md)
 13. [Event Driven Architecture](14-event-arch.md)
 14. [Trees](15-trees.md)
+15. [AWS: Cloud Servers](16-aws-cloud-servers.md)
