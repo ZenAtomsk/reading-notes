@@ -28,3 +28,5 @@ At the end of this course, you will be able to:
 10. [Event Driven Applications](11-events.md)
 11. [Socket.io](12-sockets.md) 
 12. [Message Queues](13-message-queues.md)
+13. [Event Driven Architecture](14-event-arch.md)
+14. [](15-)
