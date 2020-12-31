@@ -32,3 +32,4 @@ At the end of this course, you will be able to:
 14. [Trees](15-trees.md)
 15. [AWS: Cloud Servers](16-aws-cloud-servers.md)
 16. [AWS: S3 and Lambda](17-aws-s3lambda.md)
+17. [AWS: API, Dynamo & Lambda](18-aws-storage.md)
