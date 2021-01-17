@@ -37,3 +37,4 @@ At the end of this course, you will be able to:
 19. [Props and State](19-props-state.md)
 20. [Component Composition](20-component-comp.md)
 21. [Routing](21-routing.md)
+22. [Hooks API](22-hooks.md)
