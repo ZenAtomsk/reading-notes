@@ -39,3 +39,4 @@ At the end of this course, you will be able to:
 21. [Routing](21-routing.md)
 22. [Hooks API](22-hooks.md)
 23. [Custom Hooks](23-custom-hooks.md)
+24. [Context API](24-context-api.md)
