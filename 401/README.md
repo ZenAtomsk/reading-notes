@@ -41,3 +41,4 @@ At the end of this course, you will be able to:
 23. [Custom Hooks](23-custom-hooks.md)
 24. [Context API](24-context-api.md)
 25. [Login and Auth](25-login-auth.md)
+26. [Graphs](26-graphs.md)
