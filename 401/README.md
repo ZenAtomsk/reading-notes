@@ -42,3 +42,5 @@ At the end of this course, you will be able to:
 24. [Context API](24-context-api.md)
 25. [Login and Auth](25-login-auth.md)
 26. [Graphs](26-graphs.md)
+27. [Application State with Redux](27-redux.md)
+28. [Redux - Combined Reducers](28-combined-reducers.md)
